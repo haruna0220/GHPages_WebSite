@@ -10,7 +10,7 @@ permalink: /
 趣味はひなたぼっこです。
 好きな食べ物は焼き芋とささみです。
 散歩は嫌いです。
-
+4人兄弟です。
 
 
 
@@ -51,4 +51,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](../assets/images/20FEA82F-3076-4C08-8977-1CD087B93E91_1_201_a.heic)
+![image](../assets/images/IMG_0662.jpeg)
