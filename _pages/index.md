@@ -1,19 +1,19 @@
 ---
-title: "ここにページのタイトル"
-author: default
+title: "あんこ"
+author: haruna
 permalink: /
 ---
+私の名前はあんこです。
 
 
 
-a
 
 
 ---
 
 以下テンプレート
 
-# 見出し1
+#
 ## 見出し2
 ### 見出し3
 #### 見出し4
