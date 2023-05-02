@@ -7,8 +7,9 @@ permalink: /
 私の名前はあんこです。
 性別は♂で3歳5ヶ月です。
 体重は５.８ｋｇです。
-趣味は
-好きな食べ物は焼き芋と
+趣味はひなたぼっこです。
+好きな食べ物は焼き芋とささみです。
+散歩は嫌いです。
 
 
 
@@ -50,4 +51,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](../assets/images/20FEA82F-3076-4C08-8977-1CD087B93E91_1_201_a.heic)
